@@ -1,0 +1,26 @@
+{
+    "Zone_A": [
+        {
+            "name": "Guard",
+            "x": 9,
+            "y": 2,
+            "hp": 3,
+            "attack": 1,
+            "speed": 40,
+            "patrol_direction": "vertical",
+            "aggro_range": 4
+        }
+    ],
+    "Zone_B": [
+        {
+            "name": "Patrol",
+            "x": 8,
+            "y": 5,
+            "hp": 2,
+            "attack": 1,
+            "speed": 30,
+            "patrol_direction": "horizontal",
+            "aggro_range": 5
+        }
+    ]
+}
